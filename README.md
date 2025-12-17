@@ -1,4 +1,4 @@
-<img width="865" height="424" alt="image" src="https://github.com/user-attachments/assets/61f2ae52-ca99-4c2f-9379-56bb5f98fbf3" /># Doosan-Robotics-Isaac-Lab-Tutorial
+# Doosan-Robotics-Isaac-Lab-Tutorial
 
 This repository explains how to install NVIDIA Isaac Sim and Isaac Lab, and how to train the Doosan M0609 manipulator using Reinforcement Learning.
 
